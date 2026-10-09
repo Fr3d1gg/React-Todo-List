@@ -1,4 +1,4 @@
-# Task Manager — React + Supabase
+# Todo-List — React + Supabase
 
 Aplicación web para la gestión de tareas, desarrollada con React y Supabase. Permite crear, consultar, editar, completar, buscar y eliminar tareas mediante una interfaz sencilla y responsiva.
 
